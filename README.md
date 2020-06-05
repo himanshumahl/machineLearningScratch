@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
   
-  Machine Learning Algorithms from Scratch 🛠🐱‍👤
+   🛠🐱‍👤 Machine Learning Algorithms from Scratch
   
   These are implemented using basic Python Libraries
   1. Numpy
